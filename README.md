@@ -1,6 +1,7 @@
 # Dragon Ball adventure
 
-Dragon ball adventure es un juego en 2d de disparos en el cual pondras a prueba tus movimienos y punteria.
+Dragon ball adventure es un juego en 2d de disparos desarrollado en Java con IDE Greenfoot,
+en el cual pondras a prueba tus movimienos y punteria.
 
 ![Goku](https://www.gratistodo.com/wp-content/uploads/2016/02/Dragon-Ball-Z-Wallpapers-HD-21-800x600.jpg)
 
