@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MenuPrincipal
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ establecer\ un\ menu\ prinicpal\r\n\ \r\n\ @author\ LECB\ \r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=MenuPrincipal()
+comment1.text=\r\n\ Constructor\ de\ objetos\ de\ la\ clase\ MenuPrincipal.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ pone\ la\ pantalla\ prinicpal\ y\ espera\ a\ que\ se\ preciona\ enter\ para\ comenzar\ el\ juego\r\n
+numComments=3

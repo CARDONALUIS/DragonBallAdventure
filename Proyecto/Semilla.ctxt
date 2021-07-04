@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Semilla
+comment0.text=\r\n\ Clase\ que\ crea\ objetos\ del\ tipo\ bonificacion\ las\ cuales\ son\ semillas\ del\ ermita\u00F1o\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ realizar\ acciones\ cada\ que\ aparece\ la\ semilla\ las\ cuales\ son\ \r\n\ que\ si\ goku\ las\ intersecta\ aumente\ en\ 3\ su\ vida\ actual\ y\ tambien\ remover\ el\ objeto\ semilla\r\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=shot
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ tener\ los\ metodos\ del\ disparo\ que\ realiza\ el\ goku\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=direction
+comment1.target=shot(int)
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ dar\ a\ la\ variable\ position\ la\ direccion\ a\ la\ cual\ esta\ apuntado\ goku\r\n\ \r\n\ @param\ direction\ Es\ la\ direccion\ de\ goku\ en\ el\ momento\ que\ se\ manda\ llamar\ el\ metodo\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ se\ ejecuta\ cuando\ esta\ en\ ejeccion\ goku\ el\ cual\ mantiene\ el\ movimiento\ y\ las\ intersecciones\ de\ \r\n\ los\ objetos\ a\ los\ que\ les\ dispara\r\n
+comment3.params=
+comment3.target=void\ limiteShot()
+comment3.text=\r\n\ Metod\ que\ se\ encarga\ de\ saber\ si\ un\ disparo\ ha\ superado\ el\ limite\ de\ la\ pantalla\ para\ que\ desaparesca\r\n
+comment4.params=
+comment4.target=void\ interRocas()
+comment4.text=\r\n\ Metodo\ que\ se\ encarga\ de\ ejecutar\ mas\ metodos\ para\ los\ cuales\ se\ desencadenan\ apartir\ de\ la\ cantidad\ de\ puntos\ que\ obtengas\r\n
+comment5.params=
+comment5.target=void\ interBoss()
+comment5.text=\r\n\ Metodo\ que\ se\ encarga\ de\ decrementar\ vidas\ en\ el\ enemigo\ cada\ que\ se\ le\ dispare\ y\ tambien\ removerlo\ \r\n\ cada\ que\ sus\ puntos\ de\ vidas\ bajen\ a\ cero\r\n
+numComments=6

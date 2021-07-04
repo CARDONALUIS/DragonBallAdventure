@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Esfera
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ mantener\ los\ metodos\ que\ hara\ el\ accesorio\ esfera\ del\ dragon\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ incremetar\ el\ poder\ de\ la\ genkidama\ cada\ que\ goku\ intersecte\ con\ ella\r\n
+numComments=2

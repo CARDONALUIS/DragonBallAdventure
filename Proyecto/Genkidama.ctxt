@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Genkidama
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ contener\ los\ metodos\ que\ realizara\ el\ poder\ especial\ llamado\ genkidama\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=direction
+comment1.target=Genkidama(int)
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ saber\ a\ que\ direccion\ va\ a\ dirigirse\ el\ poder\ especial\r\n\ \r\n\ @param\ direction\ Es\ un\ paramtero\ el\ cual\ servira\ para\ identificar\ a\ que\ direccion\ saldra\ el\ poder\ especial\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metoodo\ que\ se\ encarga\ de\ ejecutar\ lo\ que\ realizara\ el\ poder\ especial\ cuando\ aparesca\ el\ cual\ sera\ que\ detecte\ las\ intersecciones\r\n\ con\ los\ diferentes\ objetos\ del\ juego\ \r\n
+comment3.params=
+comment3.target=void\ interBossGenkidama()
+comment3.text=\r\n\ Este\ metodo\ se\ encarga\ de\ reducir\ en\ cierta\ cantidad\ la\ vida\ del\ enemigo\ y\ que\ si\ llega\ a\ cero\ se\ elimine\r\n
+numComments=4

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Radar
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ tener\ y\ ejecutar\ los\ metodos\ de\ radar\r\n\ \r\n\ @author\ LECB\ \r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encaraga\ de\ ejcutar\ las\ acciones\ que\ desempe\u00F1a\ el\ radar,\ el\ cuales\ es\ de\ \r\n\ incrementar\ el\ poder\ especial\ llamado\ hakai\r\n\ \r\n
+numComments=2

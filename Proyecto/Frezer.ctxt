@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Frezer
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ las\ acciones\ del\ personaje\ enemigo\ frezer\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ ataque()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ las\ acciones\ que\ realizara\ frezer\ cuando\ aparesca\ \r\n\ \r\n
+numComments=3

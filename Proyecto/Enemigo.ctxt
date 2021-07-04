@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Enemigo
+comment0.text=\r\n\ Clase\ padre\ de\ los\ diferentes\ enemigos\ que\ estaran\ en\ el\ juego\r\n\ \r\n\ \r\n\ @author\ LECB\r\n\ @version\ \ 1.9\r\n\ \r\n
+comment1.params=
+comment1.target=void\ ataque()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ hacer\ los\ ataques\ del\ enemigo\ cada\ que\ se\ de\ un\ numero\ random\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ reglas()
+comment3.text=\r\n\ Metodo\ que\ se\ encarga\ de\ comprobar\ las\ vidas\ de\ goku.\r\n\ \r\n
+numComments=4

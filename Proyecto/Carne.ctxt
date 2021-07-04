@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Carne
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ crear\ objetosw\ del\ tipo\ de\ bonificacion\ las\ cuales\ son\ pedasos\ de\ carne\r\n\ \r\n\ @author\ LECB\ \r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ que\ cada\ que\ goku\ interecte\ con\ este\ objeto\ de\ tipo\ carne\ \r\n\ aumenta\ en\ un\ su\ salud\ y\ remoeva\ el\ mismo\ objeto\ carne\r\n
+numComments=2

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=lifes
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ tener\ el\ metodo\ de\ vidas\ para\ goku\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=lifes()
+comment2.params=
+comment2.target=void\ Disminuir()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ disminuir\ las\ vidad\ de\ goku\ y\ si\ llegan\ a\ cero\ se\ detiene\ el\ juego\r\n
+numComments=3

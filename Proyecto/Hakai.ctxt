@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hakai
+comment0.text=\r\n\ Clase\ para\ crear\ objetos\ del\ tipo\ hakai\ el\ cual\ es\ un\ poder\ especial\ el\ cual\ utiliza\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=direction
+comment1.target=Hakai(int)
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ direccionar\ el\ poder\ para\ que\ se\ diriga\ hasia\ donde\ apunta\ goku\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ relaizar\ las\ acciones\ que\ va\ a\ desempe\u00F1ar\ un\ objeto\ del\ tipo\ hakai\ \r\n\ el\ cual\ sera\ detectar\ las\ intersecciones\ con\ los\ demas\ objetos\r\n
+comment3.params=
+comment3.target=void\ interBossHakai()
+comment3.text=\r\n\ Metodo\ que\ se\ encarga\ de\ saber\ si\ el\ poder\ especial\ intesecto\ con\ el\ enemigo\ y\ si\ es\ asi\ \r\n\ le\ decrementa\ cierta\ cantidad\ de\ vida\ y\ si\ llega\ cero\ se\ elimina\r\n
+numComments=4

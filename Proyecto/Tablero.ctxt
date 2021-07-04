@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Tablero
+comment0.text=\r\n\ Esta\ clase\ se\ encarga\ de\ poner\ los\ marcadores\ en\ la\ pantalla\ superior\ \r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=c\ msj
+comment1.target=Tablero(int,\ java.lang.String)
+comment1.text=\r\n\ Metodoo\ \ que\ se\ encarga\ de\ crear\ el\ mensaje\ de\ cada\ tipo\ de\ puntaje\ \r\n\ \r\n\ @param\ c\ Es\ la\ cantidad\ que\ se\ va\ a\ a\u00F1adir\ desde\ un\ inicio\ del\ llamado\ del\ metodo\r\n\ @param\ msj\ Es\ el\ mensaje\ que\ se\ va\ imprimir\ en\ pantalla\r\n
+comment2.params=
+comment2.target=void\ dibuja()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ con\ de\ limpiar\ la\ pantalla\ y\ despues\ con\ la\ funcion\ establecidad\ pone\ el\ mensaje\r\n
+comment3.params=
+comment3.target=void\ incrementar()
+comment3.text=\r\n\ Metodo\ que\ se\ encarga\ de\ incrementar\ en\ uno\ el\ digito\ o\ contador\ del\ puntaje\ del\ mensaje\r\n
+comment4.params=
+comment4.target=void\ decrementar()
+comment4.text=\r\n\ Metodo\ que\ se\ encarga\ de\ decrementar\ en\ uno\ el\ digito\ o\ contador\ del\ puntaje\ del\ mensaje\r\n
+comment5.params=
+comment5.target=int\ obtenerValor()
+comment5.text=\r\n\ Metodo\ que\ se\ encarga\ de\ obtener\ el\ valor\ numerico\ el\ cual\ tiene\ un\ cierto\ puntaje\r\n
+comment6.params=
+comment6.target=void\ act()
+numComments=7

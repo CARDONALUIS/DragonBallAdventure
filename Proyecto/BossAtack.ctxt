@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BossAtack
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ alojar\ los\ metodos\ de\ \ los\ ataques\ de\ los\ enemigos\r\n\ \r\n\ @author\ LECB\ \r\n\ @version\ 1.9\r\n
+comment1.params=dir
+comment1.target=BossAtack(int)
+comment1.text=\r\n\ Metodo\ constructor\ que\ se\ encarga\ de\ inicilializar\ la\ variable\ de\ instancia\ de\ direccion\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ se\ ejecuta\ las\ acciones\ contenidas\ las\ cuales\ son\ de\ que\ si\ el\ ataque\ te\ intersecta\ te\ decrementa\ 1\ vida\r\n\ y\ redirecciona\ de\ posision\ a\ goku\ y\ si\ le\ quita\ el\ resto\ de\ vidas\ se\ acaba\ el\ juego\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Energia
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ alojar\ los\ metodos\ propios\ de\ la\ energia\ que\ obtienes\r\n\ cuando\ aparece\ la\ estrella\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ ejecutar\ las\ acciones\ que\ desempe\u00F1a\ el\ accesorio\ de\ energia\r\n\ el\ cual\ es\ proporcionarle\ a\ goku\ un\ poder\ especial\r\n
+numComments=2

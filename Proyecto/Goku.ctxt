@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Goku
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ alojar\ los\ metodos\ de\ ejecucion\ de\ Goku\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ Goku()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ redireccionar\ de\ posicion\ de\ goku\ cada\ que\ \r\n\ precione\ una\ tecla\ de\ las\ de\ direccion\ del\ teclado\r\n
+comment3.params=direction
+comment3.target=void\ setShot(int)
+comment3.text=\r\n\ Metodo\ que\ se\ encarga\ de\ detectar\ que\ teclas\ se\ preciono\ para\ disparar\ el\ poder\ especial\ respectivo\r\n\r\n@param\ direction\ Es\ la\ direccion\ a\ la\ que\ va\ a\ ir\ dirigido\ el\ disparo\r\n
+comment4.params=disDir
+comment4.target=void\ dispaDire(int)
+comment4.text=\r\n\ Metodo\ que\ se\ encarga\ de\ poner\ la\ imagen\ respectiva\ depende\ de\ la\ direccion\ que\ recibe\r\n\r\n@param\ disDir\ En\ en\ base\ a\ la\ direccion\ que\ recibio\ y\ se\ pondar\ la\ respectiva\ imagen\ dada\ la\ que\ recibe\r\n
+comment5.params=direccion
+comment5.target=void\ setDireccion(int)
+comment5.text=\r\n\ Metodo\ que\ se\ encarga\ de\ cambiar\ de\ imagen\ y\ volar\ segun\ la\ direccion\ que\r\n\ \r\n\ @param\ direccion\ En\ base\ a\ esta\ parametro\ el\ cual\ hara\ que\ se\ mueva\ y\ ponga\ la\ imagen\ respectiva\r\n
+numComments=6

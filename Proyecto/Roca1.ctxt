@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Roca1
+comment0.text=\r\n\ Clase\ que\ ser\ encarga\ de\ tener\ los\ metodos\ para\ los\ objetos\ de\ la\ clase\ roca1\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ realizar\ los\ movimientos\ de\ la\ roca1\ y\ detectar\ intersecciones\ con\ goku\r\n
+numComments=2

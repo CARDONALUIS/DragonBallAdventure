@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BossLifes
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ alojar\ los\ metodos\ que\ se\ encargaran\ de\ manipular\ la\ vida\ del\ enemigo\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=c\ x\ y\ height
+comment1.target=BossLifes(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ haser\ el\ recuadro\ de\ vida\ para\ el\ enemigo\r\n\ \r\n\ @param\ c\ Es\ la\ cantidad\ de\ vida\ inicial\ del\ enemigo\r\n\ @param\ x\ Es\ la\ poscion\ en\ x\ del\ recuadro\ que\ se\ realizara\r\n\ @param\ y\ Es\ la\ posicion\ en\ y\ del\ reacuadro\ a\ raizar\r\n\ \r\n
+comment2.params=
+comment2.target=void\ dibuja()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ imprimir\ en\ pantalla\ el\ recuadro\ de\ las\ vidas\ del\ enemigo\r\n
+comment3.params=
+comment3.target=void\ decrementa()
+comment3.text=\r\n\ Metodo\ que\ se\ encarga\ de\ decrementar\ la\ vida\ del\ enemigo\ \r\n
+comment4.params=
+comment4.target=int\ obtenerValor()
+comment4.text=\r\n\ Metodo\ que\ se\ encarga\ de\ obtener\ el\ valor\ actual\ de\ vida\ del\ enemigo\r\n
+comment5.params=
+comment5.target=void\ act()
+numComments=6

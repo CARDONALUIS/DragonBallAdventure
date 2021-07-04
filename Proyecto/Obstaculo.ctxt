@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Obstaculo
+comment0.text=\r\n\ Clase\ padre\ de\ los\ obsatculos\ que\ apareseran\ en\ el\ juego\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=void\ InterGoku()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ de\ saber\ si\ la\ roca\ toco\ a\ goku\ y\ si\ es\ asi\ entonses\ le\ decrementa\ una\ vida\ a\ goku\ y\ si\ llega\ a\ cero\ mandar\ llamar\ a\ un\ objeto\ \r\n\ para\ terminar\ el\ juego\r\n
+numComments=3

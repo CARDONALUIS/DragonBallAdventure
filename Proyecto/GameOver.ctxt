@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GameOver
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ crear\ objeto\ de\ tipo\ Gameover\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=
+comment1.target=GameOver()
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ poner\ el\ mensaje\ de\ juego\ terminado\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

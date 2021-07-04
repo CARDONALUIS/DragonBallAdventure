@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Poder
+comment0.text=\r\n\ Clase\ que\ se\ encarga\ de\ alojar\ los\ metodos\ del\ poder\ especial\ llamado\ Kienzan\r\n\ \r\n\ @author\ LECB\r\n\ @version\ 1.9\r\n
+comment1.params=direction
+comment1.target=Poder(int)
+comment1.text=\r\n\ Metodo\ que\ se\ encarga\ de\ dar\ la\ direccion\ segun\ como\ esta\ en\ el\ llamado\ y\ produce\ que\ el\ pode\r\n\ se\ redireccione\ hasia\ donde\ apunta\ goku\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Metodo\ que\ se\ encarga\ de\ ejecutar\ las\ acciones\ correspondientes\ del\ poder\ especial,\ primero\ determina\ la\r\n\ posicion\ a\ la\ que\ se\ tendra\ que\ disparar\ y\ tiene\ la\ habilidad\ \ de\ seguir\ una\ roca\ depende\ del\ area\ en\ donde\ esta\r\n\ tambien\ acumula\ puntos\r\n
+comment3.params=
+comment3.target=void\ interBossPoder()
+comment3.text=\r\n\ Este\ metodo\ se\ encarga\ de\ decrementar\ sierta\ cantidad\ de\ vida\ al\ enemigo\ si\ este\ poder\ lo\ toca\r\n\ y\ remover\ al\ enemigo\ si\ llega\ a\ cero\r\n
+numComments=4
